@@ -3,7 +3,7 @@ name: project-health-audit
 description: 面向已有软件项目的证据审计与交付验收，专为 Baidu Comate（comatecli）及 ERNIE/路由模型的自动审批、假完成、长上下文漂移和多模态误判设计；默认只读、证据优先、失败关闭，并记录到技能目录之外。
 license: Apache-2.0
 metadata:
-  version: "0.1.0"
+  version: "0.1.1"
   stage: single-host-comate
   memory-format: six-field-markdown
   short-description: "证据优先的项目健康审计"
